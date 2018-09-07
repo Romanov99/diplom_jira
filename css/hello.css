@@ -1,0 +1,37 @@
+#reg_auth_1>a {
+	color: white;
+}
+
+.btn_1:hover{
+	border-bottom: 2px solid rgba(217, 92, 72, 1);
+	margin-top: 7px;
+}
+
+.btn_1:active{
+	border-bottom: 0;
+	margin-top: 9px;
+}
+
+
+
+.btn_1 {
+	float: right;
+	margin-right: 3%;
+	margin-top: 5px;
+	border-radius: 5px;
+	padding: 5px 9px;
+	font-size: 1.2em;
+	background-color: rgba(236, 101, 80, 1);
+	text-shadow: #454545 0 0 2px;
+	border-bottom: 4px solid rgba(217, 92, 72, 1);
+	font-family: 'Roboto Slab', serif;
+}
+.block_1{
+	background-color: #fafafa;
+	padding:3%;
+	border-radius: 5px;
+	border: 1px solid silver;
+	font-size: 1.1em;
+	color: #3e3e3e;
+	float: left;
+}

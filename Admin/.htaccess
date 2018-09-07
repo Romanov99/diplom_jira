@@ -1,0 +1,5 @@
+ErrorDocument 401 /ContrIT/rejection.htm
+AuthUserFile     "/home/www/diofant.com/public_html/ContrIT/htpass"
+AuthName         AdminArea
+AuthType    Basic
+require user     AlexKold DmitryDroj

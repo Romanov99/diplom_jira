@@ -1,0 +1,6 @@
+ErrorDocument 401 /RemOborICT/rejection.htm
+AuthUserFile     "/home/www/diofant.com/public_html/RemOborICT/htpass"
+AuthName         ClientsArea
+AuthType    Basic
+require valid-user      
+    
